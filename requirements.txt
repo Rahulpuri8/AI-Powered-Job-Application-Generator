@@ -1,0 +1,10 @@
+speechrecognition
+pyttsx3
+streamlit
+pypdf2
+python-docx
+torch
+transformers
+requests
+ollama
+huggingface_hub
